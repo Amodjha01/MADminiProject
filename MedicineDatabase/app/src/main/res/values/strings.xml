@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedicineDatabase</string>
+    <string-array name="timeoftheday">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+    </string-array>
+</resources>
